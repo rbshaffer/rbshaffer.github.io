@@ -1,0 +1,26 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="social-media-list">
+	  <li>
+            <a href="/_includes/cv.pdf" target="_blank"><span class="icon">{% include icon-doc.svg %}</span>Vita</a>
+          </li>
+	  <li>
+            <a href="http://liberalarts.utexas.edu/government/graduate/student-profiles/profile.php?id=rbs874" target="_blank"><span class="icon">{% include icon-texas.svg %}</span>Department Profile</a>
+          </li>
+	  <li>
+            <a href="mailto:{{ site.email }}"><span class="icon">{% include icon-mail.svg %}</span>Email</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2" align="right">
+      {% include icon-github.html username=site.github_username %} {% include icon-twitter.html username=site.twitter_username %}
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
