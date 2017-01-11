@@ -2,34 +2,40 @@
 layout: main
 ---
 <style>
-.text_content{
-    float: left;
-    text-align: left;
-}
-
-.picture{
-    float: right;
-}
-
-#wrapper {
+.wrapper-local {
   display: flex;
 }
-#left {
+.left {
   flex: 0 0 62%;
   margin-right: 15px;
   margin-left: 15px;
 }
-#right {
+.right {
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-right: 15px;
   margin-left: 15px;
 }
+@media (max-width: 800px) {
+    .left {  
+             flex: 0 0 62%;
+             margin-right: 15px;
+             margin-left: 15px;
+	     text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;
+          }
+    .right {
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+             margin-right: 15px;
+             margin-left: 15px;
+          }
+}
 
 </style>
-<div id="wrapper">
-  <div id="left"><h2> Welcome! </h2>
+<div class="wrapper-local">
+  <div class="left"><h2> Welcome! </h2>
 
   <p>I'm a PhD candidate in Government at the University of Texas at Austin, specializing in public law and methodology. I study comparative statutory design and policy discourse.</p>
 
@@ -38,7 +44,7 @@ layout: main
   <p>Since starting graduate school, I've been affiliated with the <a href="http://www.comparativeconstitutionsproject.org/" target="_blank">Comparative Constitutions Project.</a> I received a B.A. in Political Science from the University of California, Berkeley in 2012 and an M.S. in Statistics and Data Science from the University of Texas at Austin in 2016. </p>
 </div>   
 
-<div id="right">
+<div class="right">
   <img src="/_includes/filler.jpg">
 </div>
 </div>
