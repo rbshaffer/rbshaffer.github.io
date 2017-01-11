@@ -1,33 +1,44 @@
 ---
 layout: main
 ---
-<style type="text/css">
-td
-{
-    padding:0 15px 0 15px;
+<style>
+.text_content{
+    float: left;
+    text-align: left;
 }
+
+.picture{
+    float: right;
+}
+
+#wrapper {
+  display: flex;
+}
+#left {
+  flex: 0 0 62%;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+#right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
 </style>
-<table>
-  <colgroup>
-    <col style="width: 66%">
-    <col style="width: 33%">
-  </colgroup>
-  <tbody>
-    <tr>
-      <td>
-        <h2> Welcome! </h2>
+<div id="wrapper">
+  <div id="left"><h2> Welcome! </h2>
 
-        <p>I'm a PhD candidate in Government at the University of Texas at Austin, specializing in public law and methodology. I study comparative statutory design and policy discourse.</p>
+  <p>I'm a PhD candidate in Government at the University of Texas at Austin, specializing in public law and methodology. I study comparative statutory design and policy discourse.</p>
 
-	<p>In most countries, preferences and institutional rules are expressed in legal documents, such as laws, administrative regulations, and constitutions. Unfortunately, legal language is difficult to interpret, both for experts and for the public. I use computational tools to unlock the information contained in these texts.</p>
+  <p>In most countries, preferences and institutional rules are expressed in legal documents, such as laws, administrative regulations, and constitutions. Unfortunately, legal language is difficult to interpret, both for experts and for the public. I use computational tools to unlock the information contained in these texts.</p>
 
-	<p>Since starting graduate school, I've been affiliated with the <a href="http://www.comparativeconstitutionsproject.org/" target="_blank">Comparative Constitutions Project.</a> I received a B.A. in Political Science from the University of California, Berkeley in 2012 and an M.S. in Statistics and Data Science from the University of Texas at Austin in 2016. </p>
-      </td>
+  <p>Since starting graduate school, I've been affiliated with the <a href="http://www.comparativeconstitutionsproject.org/" target="_blank">Comparative Constitutions Project.</a> I received a B.A. in Political Science from the University of California, Berkeley in 2012 and an M.S. in Statistics and Data Science from the University of Texas at Austin in 2016. </p>
+</div>   
 
-      <td>
-	<img src="/_includes/filler.png">
-      </td>
-
-    </tr>
-  </tbody>
-</table>
+<div id="right">
+  <img src="/_includes/filler.jpg">
+</div>
+</div>
