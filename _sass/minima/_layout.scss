@@ -129,8 +129,8 @@
 
 .footer-col-2 {
   float: right;
-  width: -webkit-calc(10% - (#{$spacing-unit} / 2));
-  width:         calc(10% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(8% - (#{$spacing-unit} / 2));
+  width:         calc(8% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
