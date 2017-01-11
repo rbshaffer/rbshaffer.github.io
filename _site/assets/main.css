@@ -179,10 +179,10 @@ pre {
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
-      text-align: right; }
+      text-align: left; }
       .site-nav .menu-icon {
         display: block;
-        float: right;
+        float: left;
         width: 36px;
         height: 26px;
         line-height: 0;
@@ -199,7 +199,7 @@ pre {
       .site-nav .page-link {
         display: block;
         padding: 5px 10px;
-        margin-left: 0px; }
+        margin-left: 20px; }
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
 
