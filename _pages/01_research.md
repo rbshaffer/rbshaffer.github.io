@@ -1,6 +1,5 @@
 ---
-layout: main
-title: Research
+layout: page
 permalink: /research/
 ---
 
