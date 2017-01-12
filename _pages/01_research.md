@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Research
 permalink: /research/
 ---
-
 <h2>Publications</h2>
 <a href="/_includes/constitute_semantics.pdf" target="_blank">Elkins, Zachary, Tom Ginsburg, James Melton, Robert Shaffer, Juan F. Sequeda, and Daniel P. Miranker. "Constitute: The world’s constitutions to read, search, and compare." Web Semantics 27 (2014): 10-18.</a>
 
