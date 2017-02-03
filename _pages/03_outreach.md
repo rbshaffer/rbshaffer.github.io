@@ -14,6 +14,7 @@ permalink: /outreach/
   margin-right: 15px;
   margin-left: 15px;
   align-content: center;
+  text-align: center;
   order: 1;
 }
 .right {
@@ -24,6 +25,7 @@ permalink: /outreach/
   margin-top: 10px;
   margin-right: 15px;
   margin-left: 15px;
+  text-align: center
   order: 2;
 }
 @media screen and (max-width: 400px) {
