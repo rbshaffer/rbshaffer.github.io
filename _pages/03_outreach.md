@@ -9,7 +9,7 @@ permalink: /outreach/
   justify-content: center;
 }
 .left {
-  float:left;
+  float:center;
   margin-top: 10px;
   margin-right: 15px;
   margin-left: 15px;
@@ -19,18 +19,24 @@ permalink: /outreach/
 }
 .right {
   display: flex;
-  float:right;
+  float:center;
   flex-direction: column;
   align-content: center;
   margin-top: 10px;
   margin-right: 15px;
   margin-left: 15px;
-  text-align: center
+  text-align: center;
   order: 2;
 }
 @media screen and (max-width: 400px) {
     .wrapper-local {
        display: inline;
+    }
+    .left{
+	float:center;
+    }
+    .right{
+	float:center;
     }
 }
 
