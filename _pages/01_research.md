@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: main
 title: Research
 permalink: /research/
 ---
+
+<img src="/_includes/graph.png" alt="Enhanced Partnership with Pakistan Act of 2009">
+
 <h2>Publications</h2>
 <a href="/_includes/constitute_semantics.pdf" target="_blank">Elkins, Zachary, Tom Ginsburg, James Melton, Robert Shaffer, Juan F. Sequeda, and Daniel P. Miranker. "Constitute: The world’s constitutions to read, search, and compare." Web Semantics 27 (2014): 10-18.</a>
 
@@ -19,3 +22,4 @@ permalink: /research/
 <a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a>
 
 <a href="/_includes/power-text-extracting.pdf" target="_blank">Shaffer, Robert. "Power in Text: Extracting Institutional Relationships from Natural Language."</a>
+
