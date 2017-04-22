@@ -12,6 +12,9 @@ permalink: /research/
 <h2>Non-Peer Reviewed</h2>
 <a href="/_includes/biodiversity_oversight.pdf" target="_blank">Shaffer, Robert. "Judicial Oversight in the Comparative Context: Biodiversity Protection in the United States, Australia, and Canada." Envtl. L. Rep. 43 (2013): 10-169.</a>
 
+<h2>Software</h2>
+<a href="https://cran.r-project.org/web/packages/bigKRLS/index.html" target="_blank"> Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Squares. 
+
 
 <h2>Working Papers</h2>
 <a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity."</a>
