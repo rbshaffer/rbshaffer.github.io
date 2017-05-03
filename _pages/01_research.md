@@ -5,6 +5,8 @@ permalink: /research/
 ---
 
 <h2>Peer-Reviewed</h2>
+<a href="/_includes/obesity-paradox.pdf" target="_blank"> Pan, Janice, Robert Shaffer, Zenia Sinno, Marcus Tyler, and Joydeep Ghosh. "The Obesity Paradox in ICU Patients." IEEE Engineering in Medicine and Biology (forthcoming, 2017). </a>
+
 <a href="/_includes/cognitive-load-issue.pdf" target="_blank"> Shaffer, Robert. "Cognitive Load and Issue Engagement in Congressional Discourse." Cognitive Systems Research (forthcoming, 2017). </a>
 
 <a href="/_includes/constitute_semantics.pdf" target="_blank">Elkins, Zachary, Tom Ginsburg, James Melton, Robert Shaffer, Juan F. Sequeda, and Daniel P. Miranker. "Constitute: The world’s constitutions to read, search, and compare." Web Semantics 27 (2014): 10-18.</a>
