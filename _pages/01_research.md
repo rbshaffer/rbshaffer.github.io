@@ -19,7 +19,7 @@ permalink: /research/
 
 
 <h2>Working Papers</h2>
-<a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity."</a> Invited to revise and resubmit at <em>Political Analysis.</em></a> Supplemetal appendix available <a href="/_includes/similarity-appendix.pdf" target="_blank">here.
+<a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity."</a> Invited to revise and resubmit at <em>Political Analysis.</em> Supplemetal appendix available <a href="/_includes/similarity-appendix.pdf" target="_blank">here.
 
 <a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a> Under review at <em>Political Analysis.</em>
 
