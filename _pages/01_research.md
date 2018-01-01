@@ -19,13 +19,13 @@ permalink: /research/
 
 
 <h2>Working Papers</h2>
-<a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity." Invited to revise and resubmit at <em>Political Analysis.</em></a>
+<a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity." Invited to revise and resubmit at <em>Political Analysis.</em></a> Supplemetal appendix available <a href="/_includes/similarity-appendix.pdf" target="_blank">here.</a>
+
+<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS." Under review at <em>Political Analysis.</em></a>
 
 <a href="/_includes/formal-methods-concept.pdf" target="_blank">Elkins, Zachary, Robert Shaffer, and Jessie Baugher. "Formal Methods of Concept Formation."</a>
 
 <a href="/_includes/attention-diversity-congress.pdf" target="_blank">Shaffer, Robert, Bryan D. Jones, JoBeth S. Shafran, Herschel F. Thomas, and Michelle Whyman. "Political Dialogue and the Great Recession: How Democratic Institutions Respond to Crises."</a>
-
-<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a>
 
 <a href="/_includes/power-text-extracting.pdf" target="_blank">Shaffer, Robert. "Power in Text: Extracting Institutional Relationships from Natural Language."</a>
 
