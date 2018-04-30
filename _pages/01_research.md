@@ -5,6 +5,8 @@ permalink: /research/
 ---
 
 <h2>Peer-Reviewed</h2>
+<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a> Conditionally accepted at <em>Political Analysis.</em>
+
 <a href="/_includes/obesity-paradox.pdf" target="_blank"> Pan, Janice, Robert Shaffer, Zenia Sinno, Marcus Tyler, and Joydeep Ghosh. "The Obesity Paradox in ICU Patients." IEEE Engineering in Medicine and Biology (forthcoming, 2017). </a>
 
 <a href="/_includes/cognitive-load-issue.pdf" target="_blank"> 2017 & Shaffer, Robert. "Cognitive Load and Issue Engagement in Congressional Discourse." Cognitive Systems Research 44: 89-99. </a>
@@ -19,7 +21,7 @@ permalink: /research/
 
 
 <h2>Working Papers</h2>
-<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a> Invited to revise and resubmit at <em>Political Analysis.</em>
+
 
 <a href="/_includes/evaluation-measures-textual.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "An Evaluation of Measures of Textual Similarity."</a>. Supplemental appendix available <a href="_includes/similarity-appendix.pdf" target="_blank">here.</a> Under review.
 
