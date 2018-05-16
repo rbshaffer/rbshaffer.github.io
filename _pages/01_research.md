@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <h2>Peer-Reviewed</h2>
-<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a> Conditionally accepted at <em>Political Analysis.</em>
+<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS."</a> Conditionally accepted at <em>Political Analysis.</em> (<a href="/_includes/mohanty_shaffer_appendix.pdf" target="_blank">Appendix</a>|<a href="https://doi.org/10.7910/DVN/A785G7" target="_blank">Replication</a>)
 
 <a href="/_includes/obesity-paradox.pdf" target="_blank"> Pan, Janice, Robert Shaffer, Zenia Sinno, Marcus Tyler, and Joydeep Ghosh. "The Obesity Paradox in ICU Patients." Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2017): 3360-3364. </a>
 
