@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<h2>Peer-Reviewed</h2>
+<h2>Publications</h2>
 <a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS".</a> Forthcoming, <em>Political Analysis.</em> (<a href="/_includes/mohanty_shaffer_appendix.pdf" target="_blank">Appendix</a>|<a href="https://doi.org/10.7910/DVN/A785G7" target="_blank">Replication</a>)
 
 <a href="/_includes/obesity-paradox.pdf" target="_blank"> Pan, Janice, Robert Shaffer, Zenia Sinno, Marcus Tyler, and Joydeep Ghosh. "The Obesity Paradox in ICU Patients." Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2017): 3360-3364. </a>
@@ -13,7 +13,6 @@ permalink: /research/
 
 <a href="/_includes/constitute_semantics.pdf" target="_blank">Elkins, Zachary, Tom Ginsburg, James Melton, Robert Shaffer, Juan F. Sequeda, and Daniel P. Miranker. "Constitute: The world’s constitutions to read, search, and compare." Web Semantics 27 (2014): 10-18.</a>
 
-<h2>Non-Peer Reviewed</h2>
 <a href="/_includes/biodiversity_oversight.pdf" target="_blank">Shaffer, Robert. "Judicial Oversight in the Comparative Context: Biodiversity Protection in the United States, Australia, and Canada." Envtl. L. Rep. 43 (2013): 10-169.</a>
 
 <h2>Software</h2>
