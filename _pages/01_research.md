@@ -7,7 +7,7 @@ permalink: /research/
 <h2>Publications</h2>
 <a href="/_includes/Legal_Linking.pdf" target="_blank">Shaffer, Robert and Stephen Mayhew. "Legal Linking: Citation Resolution and Suggestion in Constitutional Law." Proceedings of the NAACL Workshop on Natural Legal Language Processing (2019). </a>
 
-<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS".</a> <em>Political Analysis</em> (2018): 1-18. (<a href="/_includes/mohanty_shaffer_appendix.pdf" target="_blank">Appendix</a>|<a href="https://doi.org/10.7910/DVN/A785G7" target="_blank">Replication</a>)
+<a href="/_includes/mohanty_shaffer_bigkrls_paper.pdf" target="_blank">Mohanty, Pete and Robert Shaffer. "Messy Data, Robust Inference? Navigating Obstacles to Inference with bigKRLS". <em>Political Analysis</em> (2018): 1-18.</a> (<a href="/_includes/mohanty_shaffer_appendix.pdf" target="_blank">Appendix</a>/<a href="https://doi.org/10.7910/DVN/A785G7" target="_blank">Replication</a>)
 
 <a href="/_includes/obesity-paradox.pdf" target="_blank"> Pan, Janice, Robert Shaffer, Zenia Sinno, Marcus Tyler, and Joydeep Ghosh. "The Obesity Paradox in ICU Patients." Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2017): 3360-3364. </a>
 
@@ -18,7 +18,7 @@ permalink: /research/
 <a href="/_includes/biodiversity_oversight.pdf" target="_blank">Shaffer, Robert. "Judicial Oversight in the Comparative Context: Biodiversity Protection in the United States, Australia, and Canada." Envtl. L. Rep. 43 (2013): 10-169.</a>
 
 <h2>Software</h2>
-Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Squares. (<a href="https://cran.r-project.org/web/packages/bigKRLS/index.html" target="_blank">CRAN</a>|<a href="https://github.com/rdrr1990/bigKRLS" target="_blank">GitHub</a>)
+Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Squares. (<a href="https://cran.r-project.org/web/packages/bigKRLS/index.html" target="_blank">CRAN</a>/<a href="https://github.com/rdrr1990/bigKRLS" target="_blank">GitHub</a>)
 
 
 <h2>Working Papers</h2>
