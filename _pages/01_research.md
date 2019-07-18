@@ -26,8 +26,7 @@ Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Sq
 <a href="/_includes/partisanship_policy.pdf" target="_blank">Shaffer, Robert. "Partisanship or Policy? A Text-as-Data Study of
 Institutional Complexity in American Law."</a> Under review. (<a href="_includes/partisanship_policy_appendix.pdf" target="_blank">Appendix</a>)
 
-<a href="/_includes/On_Measuring_Textual_Similarity__JOP_.pdf" target="_blank">Elkins, Zachary and Robert Shaffer. "On Measuring Textual Similarity"</a>. Under review. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
+<a href="/_includes/On_Measuring_Textual_Similarity__JOP_.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. Under review. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
 
-<a href="/_includes/formal-methods-concept.pdf" target="_blank">Elkins, Zachary, Robert Shaffer, and Jessie Baugher. "Formal Methods of Concept Formation."</a>
+<a href="/_includes/border-sentiments.docx" target="_blank">Simmons, Beth and Robert Shaffer. "Globalization and Border Securitization in International Discourse." In progress.</a>
 
-<a href="/_includes/attention-diversity-congress.pdf" target="_blank">Shaffer, Robert, Bryan D. Jones, JoBeth S. Shafran, Herschel F. Thomas, and Michelle Whyman. "Political Dialogue and the Great Recession: How Democratic Institutions Respond to Crises."</a>
