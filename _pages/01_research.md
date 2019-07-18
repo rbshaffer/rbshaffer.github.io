@@ -28,5 +28,5 @@ Institutional Complexity in American Law."</a> Under review. (<a href="_includes
 
 <a href="/_includes/On_Measuring_Textual_Similarity__JOP_.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. Under review. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
 
-<a href="/_includes/border-sentiments.docx" target="_blank">Simmons, Beth and Robert Shaffer. "Globalization and Border Securitization in International Discourse." In progress.</a>
+<a href="/_includes/border-sentiments.docx" target="_blank">Simmons, Beth and Robert Shaffer. "Globalization and Border Securitization in International Discourse."</a> In progress.
 
