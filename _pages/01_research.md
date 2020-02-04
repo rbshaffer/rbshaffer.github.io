@@ -23,8 +23,7 @@ Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Sq
 
 <h2>Working Papers</h2>
 
-<a href="/_includes/partisanship_policy.pdf" target="_blank">Shaffer, Robert. "Partisanship or Policy? A Text-as-Data Study of
-Institutional Complexity in American Law."</a> Invited to revise and resubit at the <em>Journal of Politics</em>. (<a href="_includes/partisanship_policy_appendix.pdf" target="_blank">Appendix</a>)
+<a href="/_includes/power_text_complexity.pdf" target="_blank">Shaffer, Robert. "Power in Text: Implementing Networks and Institutional Complexity in American Law."</a> Invited to revise and resubit at the <em>Journal of Politics</em>. (<a href="_includes/power_text_complexity_appendix.pdf" target="_blank">Appendix</a>)
 
 <a href="/_includes/On_Measuring_Textual_Similarity.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. Under review. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
 
