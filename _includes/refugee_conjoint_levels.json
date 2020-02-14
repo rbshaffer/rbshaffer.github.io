@@ -4,5 +4,5 @@
  "3": {"label": "Religion", "values": ["Christian", "Muslim", "Agnostic"]},
  "4": {"label": "Gender makeup", "values": ["Single men", "Family groups", "Single women"]},
  "5": {"label": "Age", "values": ["39 or younger", "40 or older"]},
- "6": {"label": "Sponsorship", "values": ["None", "Faith-based NGO", "Secular NGO", "Regional or local business"]},
+ "6": {"label": "Sponsorship", "values": ["None", "Faith-based NGO", "Secular NGO", "Regional or local business"]}
 }
