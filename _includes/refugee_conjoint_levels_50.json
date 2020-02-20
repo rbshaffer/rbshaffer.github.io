@@ -1,0 +1,8 @@
+{"0": {"label": "Region of origin", "values": ["Central America", "Middle East", "Sub-Saharan Africa", "Eastern Europe", "Southeast Asia"]}, 
+ "1": {"label": "Education", "values": ["No formal schooling", "Grade school", "High school", "At least some college"]}, 
+ "2": {"label": "Language skills", "values": ["Fluent English", "Broken but functional English", "Very little to no English"]}, 
+ "3": {"label": "Religion", "values": ["Christian", "Muslim", "Agnostic"]}, 
+ "4": {"label": "Group makeup", "values": ["Single men", "Family groups", "Single women"]}, 
+ "5": {"label": "Age", "values": ["49 or younger", "50 or older"]}, 
+ "6": { "label": "Sponsored by", "values": ["No sponsor", "Faith-based NGO", "Secular NGO", "Regional or local business"]}}
+
