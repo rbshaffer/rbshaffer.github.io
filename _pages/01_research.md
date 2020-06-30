@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <h2>Publications</h2>
-<a href="/_includes/power_text_complexity.pdf" target="_blank">Shaffer, Robert. "Power in Text: Implementing Networks and Institutional Complexity in American Law."</a> Conditionally accepted at the <em>Journal of Politics</em>. (<a href="/_includes/power_text_complexity_appendix.pdf" target="_blank">Appendix</a>/<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPYAZZE" target="_blank">Replication</a>)
+<a href="/_includes/power_text_complexity.pdf" target="_blank">Shaffer, Robert. "Power in Text: Implementing Networks and Institutional Complexity in American Law."</a> Forthcoming at the <em>Journal of Politics</em>. (<a href="/_includes/power_text_complexity_appendix.pdf" target="_blank">Appendix</a>/<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPYAZZE" target="_blank">Replication</a>)
 
 <a href="/_includes/Legal_Linking.pdf" target="_blank">Shaffer, Robert and Stephen Mayhew. "Legal Linking: Citation Resolution and Suggestion in Constitutional Law." <em>Proceedings of the NAACL Workshop on Natural Legal Language Processing</em> (2019). </a>
 
