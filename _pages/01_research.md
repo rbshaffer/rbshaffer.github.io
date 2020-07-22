@@ -24,6 +24,8 @@ Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Sq
 
 
 <h2>Working Papers</h2>
+<a href="/_includes/LocalRefugeespdf" target="_blank">Shaffer, Robert, Lauren Pinson, Jonathan Chu, and Beth Simmons. "What Explains US Local Government Officials' Receptivity to New Refugees?" </a> Under review. 
+
 <a href="/_includes/On_Measuring_Textual_Similarity.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. Under review. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
 
 <a href="/_includes/border-sentiments.pdf" target="_blank">Simmons, Beth and Robert Shaffer. "Globalization and Border Securitization in International Discourse."</a> In progress.
