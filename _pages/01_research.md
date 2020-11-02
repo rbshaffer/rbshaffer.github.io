@@ -9,7 +9,7 @@ permalink: /research/
 
 <!-- <a href="/_includes/LocalRefugees.pdf" target="_blank">Shaffer, Robert, Lauren Pinson, Jonathan Chu, and Beth Simmons. "What Explains US Local Government Officials' Receptivity to New Refugees?" </a> Forthcoming at the <em>Proceedings of the National Academy of Sciences</em>. -->
 
-Shaffer, Robert, Lauren Pinson, Jonathan Chu, and Beth Simmons. "What Explains US Local Government Officials' Receptivity to New Refugees?" </a> Forthcoming at the <em>Proceedings of the National Academy of Sciences</em>.
+Shaffer, Robert, Lauren Pinson, Jonathan Chu, and Beth Simmons. "What Explains US Local Government Officials' Receptivity to New Refugees?" Forthcoming at the <em>Proceedings of the National Academy of Sciences</em>.
 
 <a href="/_includes/Legal_Linking.pdf" target="_blank">Shaffer, Robert and Stephen Mayhew. "Legal Linking: Citation Resolution and Suggestion in Constitutional Law." <em>Proceedings of the NAACL Workshop on Natural Legal Language Processing</em> (2019). </a>
 
