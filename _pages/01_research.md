@@ -27,9 +27,11 @@ Shaffer, Robert, Lauren Pinson, Jonathan Chu, and Beth Simmons. "What Explains U
 Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Squares. (<a href="https://cran.r-project.org/web/packages/bigKRLS/index.html" target="_blank">CRAN</a>/<a href="https://github.com/rdrr1990/bigKRLS" target="_blank">GitHub</a>)
 
 
-<h2>Working Papers</h2> Under review.
+<h2>Working Papers</h2> 
 
 <a href="/_includes/borders.pdf" target="_blank">Simmons, Beth and Robert Shaffer. "Globalization and Border Securitization in International Discourse."</a> Under review. (<a href="/_includes/borders_appendix.pdf" target="_blank">Appendix</a>)
+
+<a href="/_includes/Speaker_Influence.pdf" target="_blank">Lerner, Josh and Robert Shaffer. "Setting the Committee Agenda: Measuring Speaker Influence in Congressional Hearings."</a> Under review. (<a href="/_includes/Speaker_Influence_SI.pdf" target="_blank">Appendix</a>)
 
 <a href="/_includes/On_Measuring_Textual_Similarity.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. In preparation. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
 
