@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<h2>Lead Instructor>
+<h2>Lead Instructor </h2>
 - Spring 2021: <a href="/_includes/L_S_Syllabus.pdf" target="_blank"> Data Science and Machine Learning *(Graduate)*</a>
 - Spring 2021: <a href="/_includes/Data_Science_Syllabus.pdf" target="_blank"> Law and Society *(Undergraduate)*</a>
 
