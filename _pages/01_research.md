@@ -31,7 +31,3 @@ Mohanty, Pete and Robert Shaffer. bigKRLS: Optimized Kernel Regularized Least Sq
 
 <a href="/_includes/Speaker_Influence.pdf" target="_blank">Lerner, Josh and Robert Shaffer. "Setting the Committee Agenda: Measuring Speaker Influence in Congressional Hearings."</a> Under review. (<a href="/_includes/Speaker_Influence_SI.pdf" target="_blank">Appendix</a>)
 
-<a href="/_includes/On_Measuring_Textual_Similarity.pdf" target="_blank">Shaffer, Robert and Zachary Elkins. "On Measuring Textual Similarity"</a>. In preparation. (<a href="_includes/Similarity_Appendix.pdf" target="_blank">Appendix</a>)
-
-
-
